@@ -1,0 +1,44 @@
+{
+ "ALICE": {
+   "amount": 3.5,
+   "buy_price": 30,
+   "desired_price_fall": 5,
+   "desired_sell_price": 33,
+   "last_prices": [
+     12.71004841,
+     12.71728863,
+     12.71983559,
+	...
+     12.73806222,
+     12.74204871
+   ]
+ },
+ "ARDR": {
+   "amount": 314.895,
+   "buy_price": 0.351,
+   "desired_price_fall": 5,
+   "desired_sell_price": 0.3861,
+   "last_prices": [
+     0.69192631,
+     0.69205345,
+     0.68947941,
+	...
+     0.68280223,
+     0.67819879
+   ]
+ },
+ "BCH": {
+   "amount": 0.22,
+   "buy_price": 650,
+   "desired_price_fall": 5,
+   "desired_sell_price": 715,
+   "last_prices": [
+     628.07961283,
+     628.60812333,
+     629.01582194,
+	...
+     629.29318231,
+     629.12820048,
+     660.64513681
+   ]
+ },
