@@ -1,6 +1,5 @@
 import requests
 
-
 API_URL = 'https://api3.binance.com/api/v3/avgPrice' #?
 
 # func#1: price request
